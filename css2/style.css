@@ -1,0 +1,20 @@
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 20px solid color black;
+}
+
+
+section1{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+
+}
+p{
+    font-size: 40px;
+    color: antiquewhite;
+}
+
+    
